@@ -1,5 +1,4 @@
 streamlit==1.26.0
-datasets==2.15.1
 openai==0.28.1
 emoji==2.8.0
 python-dotenv==1.0.0
